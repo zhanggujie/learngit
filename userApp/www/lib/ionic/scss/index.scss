@@ -1,0 +1,28 @@
+#header{
+  .title {
+    span{
+      padding: 5px 15px;
+      border: 1px solid #fff;
+      color: #FFF;
+    }
+  .active{
+      background: #fff;
+      color: #387ef5;
+    }
+  }
+}
+#messageCent{
+  .button-block{
+    min-height: 25px;
+    line-height: 25px;
+  }
+  .button .icon:before{
+    line-height: 25px;
+  }
+}
+#footer{
+    button.button-clear{
+     padding-left: 30px;
+     padding-right: 30px;
+   }
+}
